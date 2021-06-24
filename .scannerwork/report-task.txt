@@ -1,0 +1,6 @@
+projectKey=Cryptage
+serverUrl=http://localhost:9000
+serverVersion=8.5.1.38104
+dashboardUrl=http://localhost:9000/dashboard?id=Cryptage
+ceTaskId=AXXYBXC-4VRi7_giO5tB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXXYBXC-4VRi7_giO5tB
